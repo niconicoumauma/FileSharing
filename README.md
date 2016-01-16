@@ -9,8 +9,8 @@ Ubuntu14, CentOS6
   
 USAGE  
 SERVER  
-$ gcc server.c -o server -pthread
-$ ./server [port number]
-CLIENT
-$ gcc client.c -o client
-$ ./client [ip address] [port number]
+$ gcc server.c -o server -pthread  
+$ ./server [port number]  
+CLIENT  
+$ gcc client.c -o client  
+$ ./client [ip address] [port number]  
