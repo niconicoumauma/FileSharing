@@ -1,7 +1,5 @@
 # FileSharing
-
-This is the software that has been made in the C language.  
-課題で提出するため1月中はクライアントソフトのみの公開となります。  
+現在ダウンロード機能しかありません  
   
 動作確認済みのOS  
 Ubuntu14, CentOS6  
