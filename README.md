@@ -1,5 +1,6 @@
-# FileSharing
+# MultiProcessFileSharing
 現在ダウンロード機能しかありません  
+サーバ側はマルチプロセスです  
   
 動作確認済みのOS  
 Ubuntu14, CentOS6  
